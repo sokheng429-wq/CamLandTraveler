@@ -1,16 +1,31 @@
-# React + Vite
+# 🌍 CamLandTraveler
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern travel sharing web application built with React.  
+Users can explore travel posts, upload photos/videos, and share their travel experiences with others.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🏠 Modern Travel NewsFeed UI
+- 📸 Upload photos and videos (UI ready)
+- 🌍 Travel post sharing system
+- ❤️ Like / Comment / Share buttons
+- 🔍 Search destinations
+- 👤 Login & Register UI
+- 📱 Fully responsive design
+- 🎨 Beautiful modern UI with animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** ⚛️ React.js (Frontend framework)
+- **Build Tool:** ⚡ Vite (Fast build tool & dev server)
+- **Languages:** 🧠 JavaScript (ES6+)
+- **Languages:** 🎨 HTML5 (Structure)
+- **Languages:** 🎨 CSS3 (Styling)
+- **UI Icons:** Lucide React 🎯 Lucide React (Icons)
+
+
+
